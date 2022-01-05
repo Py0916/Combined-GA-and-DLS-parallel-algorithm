@@ -1,0 +1,6 @@
+We click "Load Model" button to load the models we used in this paper, you can find the models in folder of "Data",which we get the measured dispersion curves via modeling of "Hard.ParaMod/Soft.Paramod".
+And we can change the model parameters by "AddLayer/DelLayer" button, or change the values in the parameter grid directly.
+After load the Hard or Soft models, we can get the measured dispersion curves by button of "DispsMod", and then do the inversions of DLS/GA/GA-DLS by button"DLS_Inv/GA_Inv/GA_DLS" seperately.
+When the inversion is done, you can save the result, which can be displayed in Matlab.
+We can load the extracted dispersion curves by button "LoadDisps", while the field dispersion curves can be extracted in Matlab codes, and you can find it in folder of "Data".
+At last,we can display the inversion results in Matlab. We can modify the laod file names in code.
