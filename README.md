@@ -1,5 +1,5 @@
-# Joint-GA-and-DLS-parallel-algorithm
-Codes for Manuscript of "A joint GA and DLS parallel algorithm for multi-mode Rayleigh wave inversion".
+# Combined-GA-and-DLS-parallel-algorithm
+Codes for Manuscript of "A Combined GA and DLS parallel algorithm for multi-mode Rayleigh wave inversion".
 Author:Zhao Le.
 Version:V1.1_20211202.
 E-mail:lezhao_hm@sina.com.
